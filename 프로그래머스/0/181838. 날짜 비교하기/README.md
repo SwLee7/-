@@ -1,10 +1,10 @@
 # [level 0] 날짜 비교하기 - 181838 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181838) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181838?language=javascript) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 0.00 ms
+메모리: 33.5 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 02월 25일 08:39:13
+2024년 02월 25일 08:41:54
 
 ### 문제 설명
 
